@@ -1,3 +1,4 @@
+The project focuses on developing an application capable of detecting coins and determining their respective values. This application enables users to count coins, identify their denominations, and calculate the total value of the coins. It employs various image processing techniques and machine learning methods to achieve accurate results.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
